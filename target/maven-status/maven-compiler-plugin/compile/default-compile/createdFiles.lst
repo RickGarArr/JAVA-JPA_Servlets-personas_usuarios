@@ -1,0 +1,11 @@
+sga\web\IndexServlet.class
+sga\dominio\Usuario.class
+sga\datos\PersonaDAO.class
+sga\datos\UsuarioDAOImp.class
+sga\servicio\UsuarioServiceImp.class
+sga\datos\PersonaDAOImp.class
+sga\servicio\UsuarioService.class
+sga\dominio\Persona.class
+sga\servicio\PersonaServiceImp.class
+sga\servicio\PersonaService.class
+sga\datos\UsuarioDAO.class
